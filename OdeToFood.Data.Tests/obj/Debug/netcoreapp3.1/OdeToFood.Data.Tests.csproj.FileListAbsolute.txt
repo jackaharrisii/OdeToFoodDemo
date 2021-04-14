@@ -95,3 +95,5 @@ C:\Users\jacka\source\repos\OdeToFood\OdeToFood.Data.Tests\obj\Debug\netcoreapp3
 C:\Users\jacka\source\repos\OdeToFood\OdeToFood.Data.Tests\obj\Debug\netcoreapp3.1\OdeToFood.Data.Tests.dll
 C:\Users\jacka\source\repos\OdeToFood\OdeToFood.Data.Tests\obj\Debug\netcoreapp3.1\OdeToFood.Data.Tests.pdb
 C:\Users\jacka\source\repos\OdeToFood\OdeToFood.Data.Tests\obj\Debug\netcoreapp3.1\OdeToFood.Data.Tests.genruntimeconfig.cache
+C:\Users\jacka\source\repos\OdeToFood\OdeToFood.Data.Tests\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\jacka\source\repos\OdeToFood\OdeToFood.Data.Tests\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb

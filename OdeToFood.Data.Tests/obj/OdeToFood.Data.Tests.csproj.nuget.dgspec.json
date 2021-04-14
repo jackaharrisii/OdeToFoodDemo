@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\jacka\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "C:\\Users\\jacka\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -78,6 +82,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\jacka\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jacka\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectName": "OdeToFood.Data",
+        "projectPath": "C:\\Users\\jacka\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
